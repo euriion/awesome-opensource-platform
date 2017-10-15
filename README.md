@@ -5,7 +5,7 @@ A curated list of awesome opensource platform and software. Inspired by [awesome
 ## Contents
 
 * [Awesome opensource platform](#awesome-opensource-platform)
-  * [Big data platform](##big-data-platform)iterm
+  * [Big data platform](##big-data-platform)
   * [Other awesome list](##other-awesome-list)
 
 ## Big data platform
