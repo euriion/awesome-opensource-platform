@@ -15,8 +15,9 @@ A curated list of awesome opensource platform and software. Inspired by [awesome
 
 ## Other awesome list
 
-* [Awesome python](https://github.com/vinta/awesome-python)
-* [Awesome crawler](https://github.com/BruceDone/awesome-crawler)
+* [Awesome python](https://github.com/vinta/awesome-python) - Awesome Python
+* [Awesome crawler](https://github.com/BruceDone/awesome-crawler) - Awesome crawler
+* [Awesome data-viz](https://github.com/fasouto/awesome-dataviz) - Awesome data visualization
 
 ## Contributing
 
