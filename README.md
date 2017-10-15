@@ -5,16 +5,17 @@ A curated list of awesome opensource platform and software. Inspired by [awesome
 ## Contents
 
 * [Awesome opensource platform](#awesome-opensource-platform)
-  * [Big data platform](##big-data-platform)
-  * [Big data platform](##other-awesome-list)
+  * [Big data platform](##big-data-platform)iterm
+  * [Other awesome list](##other-awesome-list)
 
 ## Big data platform
 
 * [Hadoop](http://hadoop.apache.org/) - Reliable, Scalable, Distributed computing.
 * [Flink](http://flink.apache.org/) - Scalable stream and batch data processing
 
-## Other Awesome list
+## Other awesome list
 
+* [Awesome python](https://github.com/vinta/awesome-python)
 * [Awesome crawler](https://github.com/BruceDone/awesome-crawler)
 
 ## Contributing
