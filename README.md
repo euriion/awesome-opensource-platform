@@ -10,7 +10,8 @@ A curated list of awesome opensource platform and software. Inspired by [awesome
 
 ## Big data platform
 
-* [Hadoop](http://hadoop.apache.org/) - Reliable, Scalable, Distributed computing.
+* [Hadoop](http://hadoop.apache.org/) - Reliable, Scalable, Distributed computing
+* [Hive](https://hive.apache.org/) - Data warehouse software facilitates reading, writing, and managing large datasets residing in distributed storage using SQL
 * [Flink](http://flink.apache.org/) - Scalable stream and batch data processing
 
 ## Other awesome list
